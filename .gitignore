@@ -1,0 +1,8 @@
+env
+pyache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+pytest_cache/
+.coverage
