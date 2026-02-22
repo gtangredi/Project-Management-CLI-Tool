@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "email": "alex@gmail.com"
+    },
+    {
+      "name": "Ann",
+      "email": "ann@example.com"
+    }
+  ],
+  "projects": [
+    {
+      "title": "CLI Tool",
+      "description": "Build it",
+      "due_date": "2025-12-31",
+      "user_name": "Alex"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Implement add-task",
+      "project_title": "CLI Tool",
+      "assigned_to": "Alex",
+      "status": "complete"
+    }
+  ]
+}
